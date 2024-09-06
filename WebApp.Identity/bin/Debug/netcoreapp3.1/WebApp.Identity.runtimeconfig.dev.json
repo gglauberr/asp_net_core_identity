@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Glauber\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Glauber\\.nuget\\packages"
+    ]
+  }
+}

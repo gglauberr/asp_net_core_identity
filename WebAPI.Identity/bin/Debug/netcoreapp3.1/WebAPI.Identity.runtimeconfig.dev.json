@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gglau\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gglau\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebAPI.Identity
+build_property.ProjectDir = d:\cursos_udemy\AspNetCoreIdentity\SOL.Identity\WebAPI.Identity\
